@@ -1,7 +1,7 @@
 {
   "version": "0.2",
   "import": [
-    ".cspell/cesium/cspell-ext.json"
+    "cspell-ext.json"
   ],
   "ignorePaths": [
     ".cspell.jsonc",
@@ -25,7 +25,7 @@
     "project-words",
   ],
   "words": [
-    "CMake",
+
   ],
   "ignoreWords": [
 
