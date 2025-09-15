@@ -44,7 +44,7 @@
   ],
   "overrides": [
     {
-      "filename": "**/*.cs",
+      "filename": "**/*.{cs,czm}",
       "languageId": "cesium"
     }
   ],
