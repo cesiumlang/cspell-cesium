@@ -8,7 +8,8 @@
     ".cspell/**",
     ".git/**",
     "*.code-workspace",
-    ".local-gitignore"
+    ".local-gitignore",
+    "cspell-ext.json",
   ],
   "dictionaryDefinitions": [
     {
